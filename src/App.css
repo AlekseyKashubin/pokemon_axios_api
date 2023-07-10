@@ -1,24 +1,27 @@
 body {
-  background-image: url("https://wallpapercave.com/wp/wp10200976.png");
-  background-size:cover;
-  background-attachment: fixed;
+    background-image: url("https://wallpapercave.com/wp/wp10200976.png");
+    background-size: cover;
+    background-attachment: fixed;
 }
+
 h1 {
-  text-align: center;
-  font-size: 80pt;
-  letter-spacing: 20px;
-  color: #000000;
-  text-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px;
-  }
+    text-align: center;
+    font-size: 80pt;
+    letter-spacing: 20px;
+    color: #000000;
+    text-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px;
+}
+
 .bigButton {
     font-size: 30pt;
     font-weight: bold;
     background-color: black;
-    color: orange; 
+    color: orange;
     width: 25%
 }
+
 .App {
-text-align: center;
+    text-align: center;
 }
 
 .container {
@@ -29,7 +32,7 @@ text-align: center;
 
 .poster {
     background-color: black;
-    
+
     /* margin-left: 20%; */
     padding: 3%;
     /* display:flex; */
@@ -45,12 +48,13 @@ img {
     width: 80%;
     margin-left: 10%;
     color: white;
-    font-style:italic;
+    font-style: italic;
     font-size: 15pt;
 }
+
 .author {
     width: 80%;
     margin-left: 10%;
     color: white;
-    font-style:italic;
+    font-style: italic;
 }
